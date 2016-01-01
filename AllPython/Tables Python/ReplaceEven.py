@@ -1,0 +1,15 @@
+def evenzero(list):
+    for i in range(len(list)):
+        if list[i] % 2 == 0:
+            list[i] = 0
+
+    return list
+
+def main():
+    evenlist = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+    evenzero(evenlist)
+
+    print(evenlist)
+
+main()

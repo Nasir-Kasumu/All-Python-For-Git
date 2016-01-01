@@ -1,0 +1,16 @@
+5.3
+a. false
+b. false
+c. true
+d. false
+e. false
+f. false
+g. false
+
+R5.4
+
+a. f(2) = 80 + sqrt(20)
+b. g(h(2)) = 80
+c. k(g(2) + h(2)) = 174
+d. f(0) + f(1) + f(2) = 4 + sqrt(1) + 12 + sqrt(3) + 80 + sqrt(20)
+e. f(-1) + g(-1) + h(-1) + k(-1) = 0
